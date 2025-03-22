@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pdfplumber
+pandas
+plotly
+Pillow
+pytesseract
+scikit-learn
+statsmodels
+numpy
