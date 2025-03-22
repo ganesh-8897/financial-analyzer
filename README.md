@@ -48,8 +48,6 @@ The application supports financial reports in:
 - **CSV (.csv)**
 - **Image formats (.jpg, .jpeg, .png)**
 
-## License
-This project is open-source and available under the MIT License.
 
 ## Author
-Developed by **Your Name**.
+Developed by GUGULOTH SAI GANESH.
